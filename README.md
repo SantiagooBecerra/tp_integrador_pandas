@@ -8,3 +8,6 @@ En este programa se realizan las siguientes operaciones:
 - Agrupamos en base al promedio de IMDB por país y cantidad de películas por década.
 - Limpieza de datos eliminando valores vacíos en IMDB Score.
 - Exportación del DataFrame limpio a `movies_limpio.xlsx`.
+# ¿Cómo usarlo?
+- Descargar los archivos que se encuentran en este repo: `movies.xlsx` y `tp_integrador_pandas_excel.py`
+- Abrir los archivos en Visual Studio Code y ejecutar el programa con el botón ▶
