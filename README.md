@@ -8,6 +8,3 @@ Se realizan las siguientes operaciones:
 - Agrupaciones: promedio de IMDB por país y cantidad de películas por década.
 - Limpieza de datos eliminando valores vacíos en IMDB Score.
 - Exportación del DataFrame limpio a `movies_limpio.xlsx`.
-
-## Uso
-Ejecutar en Python 3 con Pandas instalado:
