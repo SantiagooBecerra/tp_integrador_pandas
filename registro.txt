@@ -1,0 +1,8 @@
+nombre: juan
+edad:20
+nombre: lolo
+edad:10
+nombre: cami
+edad:15
+nombre:pame
+edad:35
